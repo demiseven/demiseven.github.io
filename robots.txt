@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://demiseven.github.io/sitemap
+Sitemap: https://demiseven.github.io/app/sitemap
+Sitemap: https://demiseven.github.io/assets/sitemap
+Sitemap: https://demiseven.github.io/css/sitemap
+Sitemap: https://demiseven.github.io/includes/sitemap
+Sitemap: https://demiseven.github.io/item/sitemap
+Sitemap: https://demiseven.github.io/src/sitemap
